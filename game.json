@@ -381,7 +381,7 @@
         "gridWidth": 16,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.7749999999999998
+        "zoomFactor": 0.3549999999999994
       },
       "objectsGroups": [
         {
@@ -490,7 +490,7 @@
           "name": "Congrats",
           "persistentUuid": "6f37f8dd-15dd-42ed-a9f5-c8216f1a79e9",
           "width": 0,
-          "x": 256,
+          "x": 288,
           "y": 384,
           "zOrder": 6,
           "numberProperties": [],
