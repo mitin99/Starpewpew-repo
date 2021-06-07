@@ -29,65 +29,6 @@
       "showGDevelopSplash": true
     },
     "extensionProperties": [],
-    "extensions": [
-      {
-        "name": "BuiltinObject"
-      },
-      {
-        "name": "BuiltinAudio"
-      },
-      {
-        "name": "BuiltinVariables"
-      },
-      {
-        "name": "BuiltinTime"
-      },
-      {
-        "name": "BuiltinMouse"
-      },
-      {
-        "name": "BuiltinKeyboard"
-      },
-      {
-        "name": "BuiltinJoystick"
-      },
-      {
-        "name": "BuiltinCamera"
-      },
-      {
-        "name": "BuiltinWindow"
-      },
-      {
-        "name": "BuiltinFile"
-      },
-      {
-        "name": "BuiltinNetwork"
-      },
-      {
-        "name": "BuiltinScene"
-      },
-      {
-        "name": "BuiltinAdvanced"
-      },
-      {
-        "name": "Sprite"
-      },
-      {
-        "name": "BuiltinCommonInstructions"
-      },
-      {
-        "name": "BuiltinCommonConversions"
-      },
-      {
-        "name": "BuiltinStringInstructions"
-      },
-      {
-        "name": "BuiltinMathematicalTools"
-      },
-      {
-        "name": "BuiltinExternalLayouts"
-      }
-    ],
     "platforms": [
       {
         "name": "GDevelop JS platform"
@@ -3601,7 +3542,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "begining",
+          "comment": "beginning",
           "comment2": ""
         },
         {
@@ -7506,7 +7447,7 @@
         }
       ],
       "editionSettings": {
-        "grid": true,
+        "grid": false,
         "gridB": 255,
         "gridG": 180,
         "gridHeight": 16,
@@ -7515,9 +7456,9 @@
         "gridR": 158,
         "gridType": "rectangular",
         "gridWidth": 16,
-        "snap": true,
+        "snap": false,
         "windowMask": false,
-        "zoomFactor": 0.22499999999999937
+        "zoomFactor": 0.3249999999999994
       }
     }
   ],
